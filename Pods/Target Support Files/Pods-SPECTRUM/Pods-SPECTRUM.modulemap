@@ -1,0 +1,6 @@
+framework module Pods_SPECTRUM {
+  umbrella header "Pods-SPECTRUM-umbrella.h"
+
+  export *
+  module * { export * }
+}
